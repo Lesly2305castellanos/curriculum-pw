@@ -19,21 +19,32 @@ label{
     width: 150px;
 }
 
-input{
+input,
+select{
     width: 150px;
     height: 25px;
     padding: 0 5px;
     border-radius: 10px;
+    border: 1px solid #000;
+}
+
+input:focus, 
+select:focus{
+    outline: none;
 }
 
 .btn{
     padding: 5px 10px;
     text-transform: uppercase;
-    background-color: deepskyblue;
+    background-color: rgb(0, 60, 255);
     color: #fff;
-    border-radius: 10px;
+    border: 1px solid #fff;
     font-family: 'Abel', sans-serif;
-    font-family: 'News Cycle', sans-serif;
     font-weight: 700;
-    
+    border-radius: 10px;
+}
+
+body{
+    font-family: 'News Cycle', sans-serif;
+    background-color: rgba(80, 157, 230, 0.541);
 }
