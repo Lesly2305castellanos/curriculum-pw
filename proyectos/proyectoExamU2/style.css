@@ -1,0 +1,250 @@
+/*
+font-family: 'Archivo', sans-serif; TITULOS
+font-family: 'Montserrat', sans-serif; BOTONES
+font-family: 'Nunito', sans-serif; TEXTO
+font-family: 'Poppins', sans-serif; MENU*/ 
+
+body{
+    font-family: 'Nunito', sans-serif;
+    background-color: #f64b3c;
+}
+
+.encabezado{
+    margin-top: 25px;
+}
+
+.nav-link{
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+    color: white;
+}
+
+.fondo{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.titulos{
+    position: absolute;
+    padding-top: 80px;
+    color: white;
+    
+}
+
+.titulo-prin{
+    font-family: 'Archivo', sans-serif;
+    font-size: 91px;
+    font-weight: 700;
+    padding-right: 650px;
+}
+
+.subtitulo{
+    font-family: 'Nunito', sans-serif;
+    font-size: 31px;
+    font-weight: 300;
+    padding-right: 650px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.btn-order{
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10px 0;
+    background-color: #f64b3c;
+    border: 1px solid #f64b3c;
+    position: relative;
+    width: 250px;
+    border-radius: 35px;
+}
+
+.btn-order:hover{
+    background-color: #b7372c;
+    border: 1px solid #b7372c;
+}
+
+.sec-chef{
+    margin-top: 650px;
+}
+
+.fondo-chef{
+    position: absolute;
+    width: 100%;
+    height: 790px;
+    top: 580px;
+    left: 0;
+}
+
+.titulo-chef{
+    font-family: 'Archivo', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    color: #f64b3c;
+}
+
+.row-chef p{
+    font-size: 25px;
+    font-family: 'Nunito', sans-serif;
+    color: #f64b3c;
+}
+
+.row-founder h2{
+    font-family: 'Archivo', sans-serif; 
+    text-transform: uppercase;
+    font-size: 33px;
+    font-weight: 700;
+    color: #f64b3c;
+    margin-top: 20px;
+}
+
+.row-founder p{
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+    color: #f64b3c;
+    
+}
+
+.best-burger{
+    height: 790px;    
+}
+
+.infbest h2{
+    font-family: 'Archivo', sans-serif;
+    font-weight: 700;
+    font-size: 75px;
+    color: white;
+    padding-left: 120px;
+}
+
+.infbest p{
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+    color: white;
+    padding: 5px 25px;
+    padding-left: 120px;
+    margin-bottom: 55px;
+}
+
+.btn-best{
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10px 0;
+    background-color: white;
+    border: 1px solid white;
+    position: relative;
+    width: 250px;
+    border-radius: 35px;
+    color: #f64b3c;
+    margin-left: 120px;
+}
+
+.btn-best:hover{
+    background-color: #b7372c;
+    border: 1px solid #b7372c;
+}
+
+.fondo-big{
+    position: absolute;
+    width: 100%;
+    height: 700px;
+    left: 0;
+    margin-top: -70px;
+}
+
+.infbig h2{
+    font-family: 'Archivo', sans-serif;
+    font-weight: 700;
+    font-size: 75px;
+    color: #f64b3c;
+    padding-left: 20px;
+}
+
+.infbig p{
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+    color: #f64b3c;
+    padding: 5px 25px;
+    margin-bottom: 55px;
+}
+
+.btn-big{
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10px 0;
+    background-color: #f64b3c;
+    border: 1px solid #f64b3c;
+    position: relative;
+    width: 250px;
+    border-radius: 35px;
+    color: white; 
+    margin-left: 20px;
+}
+
+.btn-big:hover{
+    background-color: #b7372c;
+    border: 1px solid #b7372c;
+}
+
+.sec-statistics{
+    height: 790px;
+    padding-top: 150px;
+    color: white;
+}
+
+.row-stat h2{
+    font-family: 'Archivo', sans-serif;
+    font-size: 62px;
+    margin-bottom: 20px;
+    
+}
+
+.row-stat p{
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+    margin-bottom: 60px;
+}
+
+.row-circle h2{
+    font-size: 102px;
+    font-weight: 700;
+    margin-top: 40px;
+    padding: 0;
+}
+
+.row-circle p{
+    font-size: 33px;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 0; 
+}
+
+.circle{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    border: 3px solid #f64b3c;
+    background: white;  
+}
+
+.fondo-pack{
+    position: absolute;
+    width: 100%;
+    height: 830px;
+}
+
+.cuadro{
+    width: 250px;
+    height: 400px;
+    background: white; 
+}
+
+
+
+
+
+
