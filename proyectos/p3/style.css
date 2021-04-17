@@ -86,7 +86,7 @@ header{
 .subtitulo{
     font-family: 'Biryani', sans-serif;
 }
-
+ 
 .stats{
     height: 340px;
     background-color: #20323a;
@@ -192,3 +192,4 @@ select.form-control{
     padding: 3px;
     margin-right: 5px;
 }
+
